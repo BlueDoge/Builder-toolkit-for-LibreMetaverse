@@ -1,4 +1,4 @@
-# Builder toolkit for LibreMetaverse
+# UNOFFICIAL Builder toolkit for LibreMetaverse
 
 I needed something to build this content and extract them to a local directory. In no way is this project associated or endorsed by any third party, including but not limited to cinderblocks & LibreMetaverse contributors. I built this project out of my own interests and have received no assistance nor endorsement of any kind.
 
